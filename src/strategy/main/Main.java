@@ -1,10 +1,10 @@
-package stratege.main;
+package strategy.main;
 
-import stratege.Orcamentos.Orcamento;
-import stratege.calculador.CalculadorDeImpostos;
-import stratege.impostos.ICMS;
-import stratege.impostos.ISS;
-import stratege.impostos.interfaces.Imposto;
+import strategy.Orcamentos.Orcamento;
+import strategy.calculador.CalculadorDeImpostos;
+import strategy.impostos.ICMS;
+import strategy.impostos.ISS;
+import strategy.impostos.interfaces.Imposto;
 
 public class Main {
 

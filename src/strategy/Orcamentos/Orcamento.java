@@ -1,4 +1,4 @@
-package stratege.Orcamentos;
+package strategy.Orcamentos;
 
 public class Orcamento {
 

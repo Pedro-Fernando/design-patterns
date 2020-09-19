@@ -1,7 +1,7 @@
-package stratege.calculador;
+package strategy.calculador;
 
-import stratege.Orcamentos.Orcamento;
-import stratege.impostos.interfaces.Imposto;
+import strategy.Orcamentos.Orcamento;
+import strategy.impostos.interfaces.Imposto;
 
 public class CalculadorDeImpostos {
 

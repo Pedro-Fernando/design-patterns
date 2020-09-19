@@ -1,7 +1,7 @@
-package stratege.impostos;
+package strategy.impostos;
 
-import stratege.Orcamentos.Orcamento;
-import stratege.impostos.interfaces.Imposto;
+import strategy.Orcamentos.Orcamento;
+import strategy.impostos.interfaces.Imposto;
 
 public class ICCC implements Imposto {
     @Override
